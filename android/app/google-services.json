@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "929312803749",
+    "firebase_url": "https://rnchatapp-4e731-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "rnchatapp-4e731",
+    "storage_bucket": "rnchatapp-4e731.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929312803749:android:d6aa83ee031cdd273d364c",
+        "android_client_info": {
+          "package_name": "com.rnchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929312803749-advu3qu28j0hrsfoeuqkb7is0nq2shsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaWFNh0w1L6MgeTZpHBzdebX56d8n1BNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929312803749-2nbmh91juib9hkkb47faptct5ck4na42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
